@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohmmad-al-gharably" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohmmad-al-gharably" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohmmad-al-gharably-602268232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohmmad-al-gharably" height="30" width="40" /></a>
 <a href="https://fb.com/mohammed.abedrabbo.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammed.abedrabbo.5" height="30" width="40" /></a>
 <a href="https://instagram.com/mohmmad_algharabli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohmmad_algharabli" height="30" width="40" /></a>
 </p>

@@ -3,6 +3,8 @@
 <h3 align="center">I'm software Engineer ,Have good experines at asp.net , ms sql ,Flutter , Mobile Developer and c#. with more than two years of experience</h3>
 <img align='right' alt="Codeing" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"  >
 
+<a href="https://app.daily.dev/mohmmadalgharably"><img src="https://api.daily.dev/devcards/9520f83ff5c9432a832ac89847a6cd36.png?r=2lz" width="400" alt="mohmmad algharably's Dev Card"/></a>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohmmadabdr" alt="mohmmadabdr" /></a> </p>

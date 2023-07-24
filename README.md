@@ -1,7 +1,6 @@
 ![Green Minimalist Flatlay  (LinkedIn Banner)](https://github.com/mohmmadabdr/mohmmadabdr/assets/99823929/8b6125ff-1225-4306-8813-0b49127a0610)
 <h1 align="center">Hi 👋, I'm Mohmmad Al Gharably</h1>
 <h3 align="center">I'm software Engineer ,Have good experines at asp.net , ms sql ,Flutter , Mobile Developer and c#. with more than two years of experience</h3>
-<a align='right' href="https://app.daily.dev/mohmmadabdr1"><img src="https://api.daily.dev/devcards/9c5e5c5a86be4285b8286fbd24e87851.png?r=zkd" width="400" alt="Mohmmad Al Gharably's Dev Card"/></a>
 <img align='left' alt="Codeing" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"  >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohmmadabdr" alt="mohmmadabdr" /></a> </p>

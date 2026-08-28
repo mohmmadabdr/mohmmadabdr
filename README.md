@@ -1,30 +1,145 @@
-![Green Minimalist Flatlay  (LinkedIn Banner)](https://github.com/mohmmadabdr/mohmmadabdr/assets/99823929/8b6125ff-1225-4306-8813-0b49127a0610)
-<h1 align="center">Hi 👋, I'm Mohmmad Al Gharably</h1>
-<h3 align="center">I'm software Engineer ,Have good experines at asp.net , ms sql ,Flutter , Mobile Developer and c#. with more than two years of experience</h3>
-<img align='left' alt="Codeing" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"  >
+```html
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohmmadabdr" alt="mohmmadabdr" /></a> </p>
+<img src="https://github.com/mohmmadabdr/mohmmadabdr/assets/99823929/8b6125ff-1225-4306-8813-0b49127a0610" width="100%" alt="Mohmmad Al Gharably Banner"/>
 
-- 🔭 I’m currently working on **FreeLancer**
+# Hi 👋, I'm Mohmmad Al Gharably
 
-- 🌱 I’m currently learning **Flutter Developer**
+### Software Engineer | .NET Developer | Flutter Developer | Data & IT Enthusiast
 
-- 💬 Ask me about **Dart , C#**
+I'm a Software Engineer with hands-on experience in **ASP.NET, C#, MS SQL Server, Flutter, Dart, and Mobile Application Development**.
 
-- 📫 How to reach me **mohmmad.abdr@outlook.com**
+I enjoy building practical software solutions, learning new technologies, and continuously expanding my skills in software development, databases, data analysis, and IT.
 
-- ⚡ Fun fact **I am funny**
+</div>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **Freelance Projects**
+- 💻 Experienced with **ASP.NET, C#, MS SQL Server, Flutter & Dart**
+- 📱 Interested in **Mobile & Web Application Development**
+- 🌱 Currently improving my skills in **Flutter, Data Analysis & Modern Software Development**
+- 💬 Ask me about **C#, Dart, Flutter, ASP.NET & SQL**
+- 📫 Reach me at **mohmmad.abdr@outlook.com**
+- ⚡ Fun fact: **I enjoy solving problems and turning ideas into real applications**
+
+---
+
+## 🤝 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/mohmmad-al-gharably-602268232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohmmad-al-gharably" height="30" width="40" /></a>
-<a href="https://fb.com/mohammed.abedrabbo.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammed.abedrabbo.5" height="30" width="40" /></a>
-<a href="https://instagram.com/mohmmad_algharabli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohmmad_algharabli" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/mohmmad-al-gharably-602268232" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45"/>
+</a>
+
+<a href="https://fb.com/mohammed.abedrabbo.5" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="45"/>
+</a>
+
+<a href="https://instagram.com/mohmmad_algharabli" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
+## 🛠️ Languages & Technologies
 
-<a href="https://app.daily.dev/mohmmadabdr1"><img src="https://api.daily.dev/devcards/v2/M1NgMenF72B8uy8zCtXcC.png?r=70y&type=wide" width="652" alt="Mohmmad Al Gharably's Dev Card"/></a>
+### 💻 Programming Languages
 
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
+
+</p>
+
+### 🚀 Frameworks & Development
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
+
+</p>
+
+### 🗄️ Databases & Backend
+
+<p align="left">
+
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL Server" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45"/>
+
+</p>
+
+### 🔧 Tools
+
+<p align="left">
+
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="45" height="45"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohmmadabdr&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohmmadabdr&show_icons=true&hide_border=true" alt="Mohmmad's GitHub Stats"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohmmadabdr&hide_border=true" alt="Mohmmad's GitHub Streak"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmmadabdr&layout=compact&hide_border=true" alt="Top Languages"/>
+
+</p>
+
+---
+
+## 📚 Daily.dev
+
+<p align="center">
+
+<a href="https://app.daily.dev/mohmmadabdr1">
+<img src="https://api.daily.dev/devcards/v2/M1NgMenF72B8uy8zCtXcC.png?r=70y&type=wide" width="650" alt="Mohmmad Al Gharably's Dev Card"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Always learning. Always building.
+
+⭐ Feel free to explore my repositories and connect with me.
+
+</div>
+```

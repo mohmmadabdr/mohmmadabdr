@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 <img src="https://github.com/mohmmadabdr/mohmmadabdr/assets/99823929/8b6125ff-1225-4306-8813-0b49127a0610" width="100%" alt="Mohmmad Al Gharably Banner"/>
@@ -142,4 +142,3 @@ I enjoy building practical software solutions, learning new technologies, and co
 ⭐ Feel free to explore my repositories and connect with me.
 
 </div>
-```

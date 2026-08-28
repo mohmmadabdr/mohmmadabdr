@@ -2,153 +2,159 @@
 
 <img src="./assets/profile-header.svg" width="100%" alt="Mohmmad Al Gharably — Software Engineer"/>
 
+### Software Engineer | ASP.NET Core | Flutter | SQL Server | Power BI | Dynamics 365 ERP
+
+📍 Jordan &nbsp; • &nbsp; 📧 [mohmmad.abdr@outlook.com](mailto:mohmmad.abdr@outlook.com) &nbsp; • &nbsp; 📱 [+962 799693335](tel:+962799693335)
+
+[LinkedIn](https://linkedin.com/in/mohmmad-al-gharably-602268232) • [GitHub](https://github.com/mohmmadabdr) • [daily.dev](https://app.daily.dev/mohmmadabdr1)
+
+</div>
+
+---
+
+## 👨‍💻 Profile
+
+Software Engineer with **2+ years of experience** delivering scalable applications, optimizing SQL databases, and integrating enterprise systems. Improved data accuracy by up to **35%** through automated SQL audits, reduced manual processing time by **40%**, and contributed to building mobile and desktop solutions used by **100+ end users**.
+
+Skilled in **ASP.NET Core, Flutter, SQL Server, and Power BI**, with a strong ability to translate business needs into working technical solutions.
+
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=5B8CFF&center=true&vCenter=true&width=700&lines=Software+Engineer;.NET+%26+C%23+Developer;Flutter+%26+Mobile+Developer;SQL+%26+Data-Driven+Solutions;Always+Learning+%E2%80%A2+Always+Building"
-    alt="Typing SVG"
-  />
-</a>
-
-<br/>
-
-<a href="https://linkedin.com/in/mohmmad-al-gharably-602268232">
-  <img src="https://img.shields.io/badge/LinkedIn-Mohmmad%20Al%20Gharably-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:mohmmad.abdr@outlook.com">
-  <img src="https://img.shields.io/badge/Email-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
-</a>
-<a href="https://app.daily.dev/mohmmadabdr1">
-  <img src="https://img.shields.io/badge/daily.dev-Profile-111111?style=for-the-badge&logo=dailydotdev&logoColor=white" alt="daily.dev"/>
-</a>
-
-</div>
+<img src="./assets/career-snapshot.svg" width="100%" alt="Career Snapshot"/>
 
 ---
 
-## 👋 About Me
+## 💼 Professional Experience
 
-I'm a **Software Engineer** focused on building practical, maintainable software across web, mobile, backend, and database-driven applications.
+### IT & Management Audit Assist — Mostaqbal Company
+**06/2024 – Present**
 
-- 💻 Building with **ASP.NET, C#, SQL Server, Flutter & Dart**
-- 📱 Interested in **mobile and full-stack application development**
-- 🗄️ Comfortable working with **relational databases and data-driven systems**
-- 🔧 I enjoy turning real business requirements into working software
-- 🌱 Continuously improving my development, architecture, and problem-solving skills
-- 💬 Ask me about **C#, .NET, Flutter, Dart, SQL & application development**
-- 📫 Reach me at **mohmmad.abdr@outlook.com**
+- Conduct advanced **SQL-based data analysis** to evaluate internal controls and system integrity.
+- Extract and analyze large datasets from **Microsoft Dynamics 365** to identify discrepancies in payroll, permissions, and financial records.
+- Develop SQL scripts to automate audit testing and improve accuracy of results.
+- Build **Power BI dashboards** to visualize audit findings and support decision-making.
+- Act as the technical bridge between audit and IT teams to implement data-driven corrective actions.
+
+### IT Support Specialist — Immediate Support for PCs
+**01/2023 – 07/2024**
+
+- Troubleshot and repaired laptops, PCs, and printers across hardware and software issues.
+- Handled OS installation, configuration, virus removal, and user technical support.
+- Improved user productivity by providing guidance and training on IT systems.
+
+### System Developer Intern — Aqaba Water Company
+**02/2022 – 02/2023**
+
+- Designed and managed **MS SQL Server** databases for ASP.NET Core systems.
+- Developed stored procedures and optimized SQL queries to fully automate invoicing within **Dynamics 365 ERP**.
+- Built subscriber validation tools to ensure data integrity during ERP rollout.
+- Designed secure APIs connecting mobile apps with backend financial data.
+- Strengthened core expertise in **T-SQL, backend development, and enterprise systems**.
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Technical Skills
+
+<img src="./assets/tech-stack.svg" width="100%" alt="Technical Skills"/>
+
+**Languages:** C#, Dart, SQL, HTML, CSS, C++  
+**Frameworks:** ASP.NET Core, Flutter  
+**Database:** MS SQL Server  
+**Tools:** Power BI, Figma, Dynamics 365 ERP  
+**Other:** API Development, 3-tier Architecture, Data Modeling
+
+---
+
+## 🚀 Projects
+
+### Auiva App
+**Flutter + ASP.NET Core** architectural design gallery application.
+
+### Coffee App
+Personalized recommendations using **data analytics**.
+
+### E-Commerce App
+Full mobile store built using **Flutter**.
+
+### SIAS API Project
+Team-based **3-tier ASP.NET Core architecture** project.
+
+---
+
+## 🎓 Education
+
+**Bachelor’s Degree in Software Engineering**  
+Al-Hussein Bin Talal University  
+**2019 – 2023 | GPA: 75**
+
+---
+
+## 📚 Courses & Professional Development
+
+### Professional Power BI Program — University of Jordan, Aqaba
+**06/2025**
+
+1-week intensive program focused on enterprise-level Power BI development, including **data modeling, DAX, Power Query, SQL integration, and interactive dashboards** for professional reporting.
+
+### Flutter Development — Dot Jordan
+**2025**
+
+Advanced Flutter program covering **UI development, state management, clean architecture, API integration, Firebase services, and the full mobile app lifecycle**.
+
+### Power BI & Data Analysis — The Hope
+**2025**
+
+Training in building complete Power BI dashboards, data modeling, KPI design, Power Query transformations, and connecting reports to SQL Server data sources.
+
+### Bank Reconciliation & Financial Systems — Sulav Academy
+**2024**
+
+Developed a Microsoft Access reconciliation system and gained strong understanding of general ledger flow, debit/credit principles, and financial control processes.
+
+### Microsoft Dynamics 365 HR — Aqaba Water Company
+**2023**
+
+Practical experience managing HR data, salary structures, and employee records using Microsoft Dynamics 365, with exposure to HR workflows and system configuration.
+
+### Flutter Development — Orange Coding Academy
+**2023**
+
+Built multiple mobile apps including e-commerce and recommendation systems; trained in UI/UX fundamentals, reusable widget design, and backend API integration.
+
+### Retail & Business Communication — EFE Jordan / Boeing
+**2022**
+
+Structured training in communication skills, English business communication, and retail sales with a focus on customer interaction and professional communication.
+
+---
+
+## 🤝 Soft Skills
+
+**Teamwork** • **Problem-solving** • **Work ethic** • **Adaptability** • **Time management** • **Communication** • **Creativity** • **Attention to detail**
+
+---
+
+## 🌍 Languages
+
+- **Arabic:** Mother Tongue
+- **English:** Intermediate A2
+
+---
+
+## 📬 Contact
+
+- **Location:** Jordan
+- **Email:** [mohmmad.abdr@outlook.com](mailto:mohmmad.abdr@outlook.com)
+- **Phone:** [+962 799693335](tel:+962799693335)
+- **LinkedIn:** [Mohmmad Al Gharably](https://linkedin.com/in/mohmmad-al-gharably-602268232)
+- **GitHub:** [mohmmadabdr](https://github.com/mohmmadabdr)
+
+---
 
 <div align="center">
 
-### Core Development
+### Building software that connects technology with real business needs.
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,dart,flutter,php,js,html,css&theme=dark&perline=8" alt="Core Development Skills"/>
-</a>
-
-### Databases & Backend
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,laravel&theme=dark&perline=8" alt="Databases and Backend Skills"/>
-</a>
-
-### Tools & Workflow
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman&theme=dark&perline=8" alt="Development Tools"/>
-</a>
+<sub>ASP.NET Core • Flutter • SQL Server • Power BI • Dynamics 365 ERP</sub>
 
 </div>
-
----
-
-## 🎯 What I Build
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Web%20Applications-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Web Applications"/>
-<img src="https://img.shields.io/badge/Mobile%20Applications-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter Mobile Applications"/>
-<img src="https://img.shields.io/badge/Backend-REST%20APIs-111827?style=flat-square&logo=swagger&logoColor=white" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/Database-SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-
-</div>
-
----
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=mohmmadabdr&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=5B8CFF&icon_color=8B5CF6&text_color=8B949E"
-  alt="Mohmmad's GitHub Stats"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmmadabdr&layout=compact&hide_border=true&theme=transparent&title_color=5B8CFF&text_color=8B949E"
-  alt="Mohmmad's Most Used Languages"
-/>
-
-</div>
-
-> GitHub statistics widgets are generated by an external service and may occasionally be rate-limited.
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=mohmmadabdr&theme=github-compact&hide_border=true&radius=12"
-  width="100%"
-  alt="Mohmmad's GitHub Activity Graph"
-/>
-
-</div>
-
----
-
-## 📚 Developer Feed
-
-<details>
-<summary><b>Open my daily.dev card</b></summary>
-<br/>
-
-<div align="center">
-  <a href="https://app.daily.dev/mohmmadabdr1">
-    <img
-      src="https://api.daily.dev/devcards/v2/M1NgMenF72B8uy8zCtXcC.png?r=70y&type=wide"
-      width="650"
-      alt="Mohmmad Al Gharably's daily.dev Card"
-    />
-  </a>
-</div>
-
-</details>
-
----
-
-<div align="center">
-
-### 🚀 Build. Learn. Improve. Repeat.
-
-<sub>Thanks for visiting my GitHub profile.</sub>
-
-</div>
-
-<!--
-Dynamic SVG services used by this profile:
-- Typing SVG: https://github.com/DenverCoder1/readme-typing-svg
-- Skill Icons: https://github.com/tandpfun/skill-icons
-- GitHub Readme Stats: https://github.com/anuraghazra/github-readme-stats
-- GitHub Activity Graph: https://github.com/Ashutosh00710/github-readme-activity-graph
--->
